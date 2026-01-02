@@ -1,0 +1,5 @@
+{
+  "name": "Godot Architect AI",
+  "description": "An expert AI assistant for Godot Engine 4.x game development, generating node structures, GDScript code, and settings for game mechanics.",
+  "requestFramePermissions": []
+}
